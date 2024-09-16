@@ -1,0 +1,5 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÛ8£ßåÿ˜2J$4a3f7e8d-a84a-46cb-a693-3865458e2862
+¡	java:S116"ZRename this field "DEFAUL_CAPACITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şìÈıÿÿÿÿ8¦ßåÿ˜2J$590a8070-fa44-4ffc-962d-45918dc99c87
+s
+java:S1172"+Remove this unused method parameter "item".(”åÇßşÿÿÿÿ8ªßåÿ˜2J$71844439-e05a-46bf-bab3-44eda7775e26

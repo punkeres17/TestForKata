@@ -1,0 +1,4 @@
+
+š	java:S127>"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÕËÜ¹ž2J$be257306-6838-435e-a05d-8bf5fcaf1553
+¥
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "task4".(¸—í×ÿÿÿÿÿ8 ªÜ¹ž2J$356eb3cd-dae5-4536-aaae-65edf75becfa
